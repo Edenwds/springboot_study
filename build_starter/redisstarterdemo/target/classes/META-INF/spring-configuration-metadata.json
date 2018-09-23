@@ -1,0 +1,29 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wds.redis.RedisProperties",
+      "name": "redis.msg",
+      "type": "com.wds.redis.RedisProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wds.redis.RedisProperties",
+      "name": "redis.msg.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wds.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.msg.port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.wds.redis.RedisProperties",
+      "defaultValue": 0,
+      "name": "redis.msg.timeout",
+      "type": "java.lang.Integer"
+    }
+  ]
+}
