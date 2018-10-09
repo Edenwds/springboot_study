@@ -17,6 +17,7 @@ import java.io.IOException;
  * @Date: Created in 16:17 2018/8/4
  */
 @Configuration
+@MapperScan(basePackages = {"com.example.mybatis.dao"})
 public class MybatisConfig {
 
     @Autowired
