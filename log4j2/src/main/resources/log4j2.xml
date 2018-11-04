@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--启动项设置为 trace，加载 springboot 启动内部各种详细输出-->
+<Configuration status="WARN">
+
+    <Properties>
+        <Property name="file_path">F:\StudyProject\springboot_study\log4j2\logs</Property>
+    </Properties>
+    <Appenders>
+        <!--添加一个控制台追加器-->
+        <Console name="Console" target="SYSTEM_OUT" follow="true">
+            <PatternLayout>
+                <!--<pattern>%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>-->
+                <pattern>[%d] - [%c] - [%highlight{%level}] - [%method] - [%t] - %msg%n</pattern>
+            </PatternLayout>
+        </Console>
+        <!--添加一个文本追加器-->
+        <File name="File" fileName="F:\StudyProject\springboot_study\log4j2\log.log">
+            <PatternLayout>
+                <pattern>[%-5p] %d %c - %m%n</pattern>
+            </PatternLayout>
+        </File>
+
+        <RollingFile name="RollingFileInfo" fileName="${file_path}/info/info.log"
+            filePattern="${file_path}/$${date:yyyy-MM}/info/info-%d{yyyy-MM-dd}-%i.log.gz">
+            <!--<Filters>-->
+                <ThresholdFilter level="INFO" onMatch="DENY" onMismatch="NEUTRAL"></ThresholdFilter>
+                <!--<ThresholdFilter level="WARN" onMatch="DENY" onMismatch="NEUTRAL"></ThresholdFilter>-->
+            <!--</Filters>-->
+            <PatternLayout pattern="[%d][%t][%p][%c:%L] %m%n" />
+            <Policies>
+                <!--归档每天的文件-->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <!--限制单个文件的大小-->
+                <SizeBasedTriggeringPolicy size="2MB"></SizeBasedTriggeringPolicy>
+            </Policies>
+            <!-- 限制每天的文件个数 -->
+            <DefaultRolloverStrategy compressionLevel="0" max="10"></DefaultRolloverStrategy>
+        </RollingFile>
+
+        <RollingFile name="RollingFileWarn" fileName="${file_path}/warn/warn.log"
+                     filePattern="${file_path}/$${date:yyyy-MM}/warn/warn-%d{yyyy-MM-dd}-%i.log.gz">
+            <!--<Filters>-->
+                <!--<ThresholdFilter level="WARN"></ThresholdFilter>-->
+                <ThresholdFilter level="WARN" onMatch="DENY" onMismatch="NEUTRAL"></ThresholdFilter>
+            <!--</Filters>-->
+            <PatternLayout pattern="[%d][%t][%p][%c:%L] %m%n" />
+            <Policies>
+                <!--归档每天的文件-->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <!--限制单个文件的大小-->
+                <SizeBasedTriggeringPolicy size="2MB"></SizeBasedTriggeringPolicy>
+            </Policies>
+            <DefaultRolloverStrategy compressionLevel="0" max="10"></DefaultRolloverStrategy>
+        </RollingFile>
+
+        <RollingFile name="RollingFileError" fileName="${file_path}/error/error.log"
+                     filePattern="${file_path}/$${date:yyyy-MM}/error/error-%d{yyyy-MM-dd}-%i.log.gz">
+            <ThresholdFilter level="ERROR" onMatch="DENY" onMismatch="NEUTRAL"></ThresholdFilter>
+            <PatternLayout pattern="[%d][%t][%p][%c:%L] %m%n" />
+            <Policies>
+                <!--归档每天的文件-->
+                <TimeBasedTriggeringPolicy interval="1" modulate="true"/>
+                <!--限制单个文件的大小-->
+                <SizeBasedTriggeringPolicy size="2MB"></SizeBasedTriggeringPolicy>
+            </Policies>
+            <DefaultRolloverStrategy compressionLevel="0" max="10"></DefaultRolloverStrategy>
+        </RollingFile>
+
+        <NoSql name="databaseAppender">
+            <MongoDB databaseName="test" collectionName="newlog" server="127.0.0.1" port="27017"></MongoDB>
+        </NoSql>
+    </Appenders>
+    <Loggers>
+        <!--The level may be configured with ong of TRACE, DEBUG, INFO, WARN, ERROR, ALL or OFF  default to ERROR-->
+        <Logger name="com.example.log4j2" level="DEBUG" additivity="true">
+            <AppenderRef ref="File"></AppenderRef>
+        </Logger>
+        <Logger name="mongolog" level="trace" additivity="true">
+            <AppenderRef ref="databaseAppender"/>
+        </Logger>
+        <!--Every configuration must have a root logger-->
+        <Root level="INFO">
+            <AppenderRef ref="Console" />
+            <AppenderRef ref="RollingFileInfo" />
+            <AppenderRef ref="RollingFileWarn" />
+            <AppenderRef ref="RollingFileError" />
+            <AppenderRef ref="databaseAppender"/>
+        </Root>
+    </Loggers>
+</Configuration>

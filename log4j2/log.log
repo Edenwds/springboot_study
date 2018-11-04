@@ -1,0 +1,153 @@
+[INFO ] 2018-06-01 15:14:40,320 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 25608 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-01 15:14:40,321 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-01 15:14:40,342 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-01 15:14:47,523 com.example.log4j2.Log4j2Application - Started Log4j2Application in 8.279 seconds (JVM running for 15.612)
+[INFO ] 2018-06-01 15:36:21,674 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 9288 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-01 15:36:21,684 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-01 15:36:21,700 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-01 15:36:30,154 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.851 seconds (JVM running for 18.916)
+[INFO ] 2018-06-01 15:37:02,046 com.example.log4j2.Log4j2Application - Starting Log4j2Application on WDS with PID 25308 (C:\Users\wds\Desktop\springboot_study\log4j2\target\classes started by wds in C:\Users\wds\Desktop\springboot_study\log4j2)
+[DEBUG] 2018-06-01 15:37:02,047 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-01 15:37:02,049 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-01 15:37:05,648 com.example.log4j2.Log4j2Application - Started Log4j2Application in 4.262 seconds (JVM running for 6.131)
+[INFO ] 2018-06-04 17:06:57,380 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 20736 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 17:06:57,383 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 17:06:57,403 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 17:07:05,156 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.175 seconds (JVM running for 17.826)
+[INFO ] 2018-06-04 17:07:19,183 com.example.log4j2.controller.HelloAction - logger test
+[INFO ] 2018-06-04 17:26:00,343 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 29028 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 17:26:00,345 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 17:26:00,359 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 17:26:07,676 com.example.log4j2.Log4j2Application - Started Log4j2Application in 8.632 seconds (JVM running for 16.419)
+[INFO ] 2018-06-04 17:51:58,792 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 21608 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 17:51:58,794 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 17:51:58,808 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 17:56:12,938 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 22056 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 17:56:12,940 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 17:56:12,953 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 17:56:21,919 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.824 seconds (JVM running for 17.798)
+[INFO ] 2018-06-04 17:58:13,477 com.example.log4j2.service.WebLogAspect - URL : http://localhost:8081/log4j2/hello2
+[INFO ] 2018-06-04 17:58:13,477 com.example.log4j2.service.WebLogAspect - HTTP_METHOD : GET
+[INFO ] 2018-06-04 17:58:13,477 com.example.log4j2.service.WebLogAspect - IP : 0:0:0:0:0:0:0:1
+[INFO ] 2018-06-04 17:58:13,481 com.example.log4j2.service.WebLogAspect - CLASS_METHOD : com.example.log4j2.controller.HelloAction.hello2
+[INFO ] 2018-06-04 17:58:13,481 com.example.log4j2.service.WebLogAspect - ARGS : [lisi]
+[INFO ] 2018-06-04 17:58:13,488 com.example.log4j2.service.WebLogAspect - RESPONSE : Hello lisi
+[INFO ] 2018-06-04 18:19:44,096 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 2620 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 18:19:44,098 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 18:19:44,110 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 18:19:53,158 com.example.log4j2.Log4j2Application - Started Log4j2Application in 10.177 seconds (JVM running for 18.13)
+[INFO ] 2018-06-04 18:20:12,947 com.example.log4j2.service.WebLogAspect - URL : http://localhost:8081/log4j2/hello2
+[INFO ] 2018-06-04 18:20:12,948 com.example.log4j2.service.WebLogAspect - HTTP_METHOD : GET
+[INFO ] 2018-06-04 18:20:12,948 com.example.log4j2.service.WebLogAspect - IP : 0:0:0:0:0:0:0:1
+[INFO ] 2018-06-04 18:20:12,952 com.example.log4j2.service.WebLogAspect - CLASS_METHOD : com.example.log4j2.controller.HelloAction.hello2
+[INFO ] 2018-06-04 18:20:12,952 com.example.log4j2.service.WebLogAspect - ARGS : [lisi]
+[INFO ] 2018-06-04 18:20:12,963 com.example.log4j2.service.WebLogAspect - RESPONSE : Hello lisi
+[INFO ] 2018-06-04 18:20:12,964 com.example.log4j2.service.WebLogAspect - 运行时间为 : 11
+[INFO ] 2018-06-04 18:34:04,483 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 32856 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 18:34:04,485 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 18:34:04,555 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 18:34:16,538 com.example.log4j2.Log4j2Application - Started Log4j2Application in 13.182 seconds (JVM running for 21.273)
+[INFO ] 2018-06-04 18:34:23,056 com.example.log4j2.service.WebLogAspect - 1528108463056
+[INFO ] 2018-06-04 18:34:23,057 com.example.log4j2.service.WebLogAspect - RESPONSE : null
+[INFO ] 2018-06-04 18:34:36,757 com.example.log4j2.service.WebLogAspect - 1528108476757
+[INFO ] 2018-06-04 18:34:36,757 com.example.log4j2.service.WebLogAspect - RESPONSE : null
+[INFO ] 2018-06-04 18:41:22,610 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 26972 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-04 18:41:22,612 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-04 18:41:22,639 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-04 18:41:31,494 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.802 seconds (JVM running for 17.704)
+[INFO ] 2018-06-04 18:41:43,083 com.example.log4j2.service.WebLogAspect - 1528108903083
+[INFO ] 2018-06-04 18:41:43,083 com.example.log4j2.service.WebLogAspect - URL : http://localhost:8081/log4j2/hello2
+[INFO ] 2018-06-04 18:41:43,084 com.example.log4j2.service.WebLogAspect - HTTP_METHOD : GET
+[INFO ] 2018-06-04 18:41:43,084 com.example.log4j2.service.WebLogAspect - IP : 0:0:0:0:0:0:0:1
+[INFO ] 2018-06-04 18:41:43,088 com.example.log4j2.service.WebLogAspect - CLASS_METHOD : com.example.log4j2.controller.HelloAction.hello2
+[INFO ] 2018-06-04 18:41:43,089 com.example.log4j2.service.WebLogAspect - ARGS : [lisi]
+[INFO ] 2018-06-04 18:41:43,099 com.example.log4j2.service.WebLogAspect - 1528108903099
+[INFO ] 2018-06-04 18:41:43,102 com.example.log4j2.service.WebLogAspect - RESPONSE : Hello lisi
+[INFO ] 2018-06-04 18:41:43,103 com.example.log4j2.service.WebLogAspect - SPEND TIME : 14
+[INFO ] 2018-06-05 13:35:19,905 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 37884 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 13:35:19,907 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 13:35:19,921 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 13:35:31,470 com.example.log4j2.Log4j2Application - Started Log4j2Application in 12.892 seconds (JVM running for 24.53)
+[INFO ] 2018-06-05 13:37:14,860 com.example.log4j2.service.WebLogAspect - 1528177034860
+[INFO ] 2018-06-05 13:37:14,861 com.example.log4j2.service.WebLogAspect - URL : http://localhost:8081/log4j2/hello2
+[INFO ] 2018-06-05 13:37:14,862 com.example.log4j2.service.WebLogAspect - HTTP_METHOD : GET
+[INFO ] 2018-06-05 13:37:14,862 com.example.log4j2.service.WebLogAspect - IP : 0:0:0:0:0:0:0:1
+[INFO ] 2018-06-05 13:37:14,866 com.example.log4j2.service.WebLogAspect - CLASS_METHOD : com.example.log4j2.controller.HelloAction.hello2
+[INFO ] 2018-06-05 13:37:14,867 com.example.log4j2.service.WebLogAspect - ARGS : [lisi]
+[INFO ] 2018-06-05 13:37:14,878 com.example.log4j2.service.WebLogAspect - 1528177034878
+[INFO ] 2018-06-05 13:37:14,879 com.example.log4j2.service.WebLogAspect - RESPONSE : Hello lisi
+[INFO ] 2018-06-05 13:37:14,879 com.example.log4j2.service.WebLogAspect - SPEND TIME : 12
+[INFO ] 2018-06-05 13:38:50,252 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 32916 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 13:38:50,265 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 13:38:50,268 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 13:38:58,840 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.535 seconds (JVM running for 18.165)
+[INFO ] 2018-06-05 13:44:46,925 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 19004 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 13:44:46,941 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 13:44:46,943 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 13:44:57,203 com.example.log4j2.Log4j2Application - Started Log4j2Application in 11.335 seconds (JVM running for 20.262)
+[INFO ] 2018-06-05 13:59:53,883 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 37648 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 13:59:53,885 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 13:59:53,887 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 13:59:59,588 com.example.log4j2.Log4j2Application - Started Log4j2Application in 6.872 seconds (JVM running for 17.257)
+[INFO ] 2018-06-05 14:03:22,536 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 11948 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:03:22,552 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:03:22,555 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:03:31,859 com.example.log4j2.Log4j2Application - Started Log4j2Application in 10.287 seconds (JVM running for 18.658)
+[INFO ] 2018-06-05 14:06:51,675 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 34144 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:06:51,678 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:06:51,692 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:07:02,360 com.example.log4j2.Log4j2Application - Started Log4j2Application in 11.678 seconds (JVM running for 19.906)
+[INFO ] 2018-06-05 14:19:08,230 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 35592 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:19:08,232 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:19:08,245 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:19:17,171 com.example.log4j2.Log4j2Application - Started Log4j2Application in 10.278 seconds (JVM running for 21.6)
+[INFO ] 2018-06-05 14:22:48,613 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 30444 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:22:48,615 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:22:48,635 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:23:00,620 com.example.log4j2.Log4j2Application - Started Log4j2Application in 12.931 seconds (JVM running for 21.239)
+[INFO ] 2018-06-05 14:25:14,135 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 14100 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:25:14,137 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:25:14,159 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:25:23,040 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.912 seconds (JVM running for 20.07)
+[INFO ] 2018-06-05 14:28:59,523 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 35176 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:28:59,527 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:28:59,541 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:29:08,462 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.966 seconds (JVM running for 20.313)
+[INFO ] 2018-06-05 14:35:09,565 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 37372 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:35:09,567 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:35:09,582 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:35:18,183 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.685 seconds (JVM running for 19.552)
+[INFO ] 2018-06-05 14:40:51,626 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 29852 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:40:51,628 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:40:51,651 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:41:00,267 com.example.log4j2.Log4j2Application - Started Log4j2Application in 9.787 seconds (JVM running for 19.78)
+[INFO ] 2018-06-05 14:41:39,177 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 35772 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:41:39,179 com.example.log4j2.Log4j2Application - Running with Spring Boot v2.0.2.RELEASE, Spring v5.0.6.RELEASE
+[INFO ] 2018-06-05 14:41:39,199 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:41:49,665 com.example.log4j2.Log4j2Application - Started Log4j2Application in 11.712 seconds (JVM running for 20.028)
+[INFO ] 2018-06-05 14:48:00,713 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 34476 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:48:00,714 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 14:48:00,719 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:48:25,475 com.example.log4j2.Log4j2Application - Started Log4j2Application in 26.277 seconds (JVM running for 34.357)
+[INFO ] 2018-06-05 14:50:26,984 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 36696 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 14:50:26,991 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 14:50:27,122 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 14:52:24,900 com.example.log4j2.Log4j2Application - Started Log4j2Application in 121.013 seconds (JVM running for 131.295)
+[INFO ] 2018-06-05 15:05:27,429 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 31008 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 15:05:27,434 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 15:05:27,501 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 15:07:16,117 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 17960 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 15:07:16,124 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 15:07:16,193 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 15:09:05,235 com.example.log4j2.Log4j2Application - Started Log4j2Application in 112.343 seconds (JVM running for 122.943)
+[INFO ] 2018-06-05 15:39:24,138 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 28372 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 15:39:24,144 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 15:39:24,237 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 15:40:32,754 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 36636 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 15:40:32,859 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 15:40:32,867 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 15:40:39,769 com.example.log4j2.Log4j2Application - Started Log4j2Application in 8.202 seconds (JVM running for 18.009)
+[INFO ] 2018-06-05 15:44:47,274 com.example.log4j2.Log4j2Application - Starting Log4j2Application v0.0.1-SNAPSHOT on WDS with PID 18768 (C:\Users\wds\Desktop\springboot_study\log4j2\target\log4j2-0.0.1-SNAPSHOT\WEB-INF\classes started by wds in E:\Apache Software Foundation\apache-tomcat-8.5.20\bin)
+[DEBUG] 2018-06-05 15:44:47,381 com.example.log4j2.Log4j2Application - Running with Spring Boot v1.5.14.BUILD-SNAPSHOT, Spring v4.3.17.RELEASE
+[INFO ] 2018-06-05 15:44:47,389 com.example.log4j2.Log4j2Application - No active profile set, falling back to default profiles: default
+[INFO ] 2018-06-05 15:44:54,368 com.example.log4j2.Log4j2Application - Started Log4j2Application in 8.193 seconds (JVM running for 18.538)
