@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  kafka:
+    bootstrap-servers: ip:port, ip:port
+    producer:
+      acks: all
+      retries: 0
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+    consumer:
+      enable-auto-commit: true
+      auto-commit-interval: 1000
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      bootstrap-servers1: ip:port, ip:port
+      bootstrap-servers2: ip:port, ip:port
+
+    topic: test4
